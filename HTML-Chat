@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Amazing Ones Chat Room</title>
+<link rel="stylesheet" 
+     type="text/css"
+     href="website.css">
+</head>
+<body>
+
+<h1>Peeps</h1>
+<p>This is where we will chat.</p>
+<p>Characters: Jazmin, Tazzy, Cadina</p>
+<p>
+CadinaCat: Hey peeps
+TazzyTea: Hey
+JazminFlower: Sup, Last one again
+CadinaCat: No
+TazzyTea: We have a suprise for you
+JazminFlower: Really, you remembered my birthday
+CadinaCat and TazzyTea: Of course
+
+</p>
+
+</body>
+</html>
